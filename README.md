@@ -1,1 +1,3 @@
 # kernel
+# u-boot
+# Buildroot
